@@ -5,6 +5,13 @@
 - 👯 I’m looking to collaborate on front-end
 - 🤔 I’m looking for help with back-end, front-end
 
+<a href="https://github.com/csrap/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csrap&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/csrap/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csrapa&repo=convoychat" />
+</a>
+
 <!-- 
 <div>
   <a href="https://github.com/csrap">
