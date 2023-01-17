@@ -8,8 +8,7 @@
 
 ![Cesar Pinto](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csrap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 <div>
 
  <a href="https://discord.gg/3376" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
