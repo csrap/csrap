@@ -8,7 +8,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=csrap&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-![Cesar Pinto](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=tokio)
+![Cesar Pinto](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=tokyonight)
 
 <div>
 
