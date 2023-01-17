@@ -7,6 +7,8 @@
 
 
 ![Cesar Pinto](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csrap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <div>
 
