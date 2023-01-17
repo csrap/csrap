@@ -10,7 +10,7 @@
 
 
 #### Database
-<img src="{https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}" />
+![image]({[(https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)]})
 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=csrap&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
