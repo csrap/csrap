@@ -1,9 +1,17 @@
-   ### Hi!   I'm César Augusto Pinto 
-
-
+   ## Hi there, I'm César Augusto Pinto 👋
+   
    - 🌱 I’m currently learning React, Java
    - 👯 I’m looking to collaborate on front-end
    - 🤔 I’m looking for help with back-end, front-end
+
+
+## Skills:
+#### Languages:
+
+
+#### Database
+<img src="{https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}" />
+
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=csrap&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
   
