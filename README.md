@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with back-end, front-end
 
 
-![Cesar Pinto ](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=radical)
+![Cesar Pinto ](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=dracula)
   
 <div>
 
