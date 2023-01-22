@@ -45,5 +45,5 @@ ___
 
 
 
-![Snake animation](https://github.com/csrap/csrap/blob/output/github-contribution-grid-snake.svg)
+
 
