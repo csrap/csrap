@@ -3,7 +3,7 @@
    - 🌱 I’m currently learning React, Java
    - 👯 I’m looking to collaborate on front-end
    - 🤔 I’m looking for help with back-end, front-end
-   - -
+
  
 
 ***
