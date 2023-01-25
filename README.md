@@ -1,9 +1,10 @@
    ## Hi there, I'm César Augusto Pinto 👋
-   
+ ---
    - 🌱 I’m currently learning React, Java
    - 👯 I’m looking to collaborate on front-end
    - 🤔 I’m looking for help with back-end, front-end
 
+---
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=csrap&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
  ![Cesar Pinto](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=tokyonight)
