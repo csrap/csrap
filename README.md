@@ -1,4 +1,6 @@
    
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a4fc&size&height=120&section=header"/>
+   
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a4fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there+I'm+César+Augusto+Pinto+👋+;I'm+Full+Stack+Developer;)](https://git.io/typing-svg)
 
  ---
@@ -7,9 +9,13 @@
    - 🤔 I’m looking for help with back-end, front-end
 
 ---
+<div align="center">
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=csrap&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
  ![Cesar Pinto](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=tokyonight)
+</div>
+
+[![Cesar Pinto github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=csrap&bg_color=0d1117&color=70a4fc&line=70a4fc&point=3D54C8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Skills:
