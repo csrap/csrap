@@ -1,4 +1,6 @@
-   ## Hi there, I'm César Augusto Pinto 👋
+   
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a4fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there+I'm+César+Augusto+Pinto+👋+;I'm+Full+Stack+Developer;)](https://git.io/typing-svg)
+
  ---
    - 🌱 I’m currently learning React, Java
    - 👯 I’m looking to collaborate on front-end
