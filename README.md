@@ -14,6 +14,7 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=csrap&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
  ![Cesar Pinto](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=tokyonight)
 </div>
+
 [![Cesar Pinto github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=csrap&bg_color=0d1117&color=70a4fc&line=70a4fc&point=3D54C8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
