@@ -4,9 +4,9 @@
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a4fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there+I'm+César+Augusto+Pinto+👋+;I'm+Full+Stack+Developer;)](https://git.io/typing-svg)
 
  ---
-   - 🌱 I’m currently learning React, Java
-   - 👯 I’m looking to collaborate on front-end
-   - 🤔 I’m looking for help with back-end, front-end
+   - I’m currently learning React, Java 💻 
+   - I’m 🔎 looking to collaborate on front-end 
+   - I’m looking for help with back-end, front-end  🖥️ ⌨️ 
 
 ---
 <div align="center">
