@@ -10,6 +10,17 @@
 
 ---
 <div align="center">
+   
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+[Resume CV](https://resume-responsive-nine.vercel.app/).
+
+</p>
+</details>
+
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=csrap&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
  ![Cesar Pinto](https://github-readme-stats.vercel.app/api?username=csrap&show_icons=true&theme=tokyonight)
