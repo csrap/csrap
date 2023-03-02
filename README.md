@@ -5,8 +5,8 @@
 
  ---
    - I’m currently learning React, Java 💻 
-   - I’m 🔎 looking to collaborate on front-end 
-   - I’m looking for help with back-end, front-end  🖥️ ⌨️ 
+   - I’m 🔎 looking to collaborate and help on front-end, back-end 🖥️ ⌨️ 
+    
 
 ---
 <div align="center">
